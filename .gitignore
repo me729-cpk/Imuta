@@ -4,6 +4,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv313/
 venv/
 
 # PyCharm settings
@@ -14,3 +15,8 @@ venv/
 
 # Database files
 *.db
+
+# PyInstaller generated files
+build/
+dist/
+student.txt

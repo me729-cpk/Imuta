@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mathematics",
+        "total_topics": 20,
+        "completed_topics": 15
+    },
+    {
+        "name": "Physics",
+        "total_topics": 15,
+        "completed_topics": 12
+    },
+    {
+        "name": "Chemistry",
+        "total_topics": 18,
+        "completed_topics": 13
+    }
+]
