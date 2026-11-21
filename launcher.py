@@ -6,7 +6,7 @@ from streamlit.web import cli as stcli
 import models.subject
 import models.topic
 import core.study_manager
-
+import models.study_session
 
 def main():
     if getattr(sys, "frozen", False):
